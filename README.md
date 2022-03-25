@@ -1,4 +1,4 @@
-# Halcyonsim
+# Halcyon World
 
 Halcyon World is a Virtual World with a full 3D environment,  written in C Sharp (C#), where you may move about with a character known as an avatar in a 3D World accessed with a 3D Graphics Application, commonly known as a "Viewer," the most common of which is the Firestorm Viewer. It allows users "talk" to other people in-world through Nearby Chat, IM's, Group Chats and Group IM's and in voice, usually. (Depending on the voice service available.)  Although that's as much like a game as it gets. There is also the ability to build objects in-world known as primatives or prims in various shapes and sizes to make different types of 3D objects. 
 
@@ -12,3 +12,6 @@ For example, <a href="https://SovariaEstates.world" target="_blank">Sovaria Esta
 We welcome developers who know C Sharp to join us in maintaining and improving Halcyon World. 
 
 Thank you.
+
+
+To download the code, contribute, or report problems, please visit <a href="https://github.com/HalcyonGrid" target="_blank">Halcyon Grid</a>. 
