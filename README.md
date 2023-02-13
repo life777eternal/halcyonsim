@@ -1,4 +1,4 @@
-# HalcyonSim
+# halcyonsim
 
 Simulates a virtual world environment. With sun, moon and clouds moving in regular day cycles or static positions (depending on the settings).  The regions consist of the aformentioned environments and land, which can be subdivided just like in real life. Also buildings *(objects with seamless textures to give the desired look)* can be setup on the land, as well as in the sky on what are called "sky platforms". Plus avatars *(the users' representation in-world)* and interactive objects that are scripted. Objects or buildings can have various scripts added to them which allows them to exhibit different functions, as well as produce particles that resemble things in real life such as fire in a fireplace inside a building or campfire outside of buildings, and/or smoke from a smokestack on a building. 
 
